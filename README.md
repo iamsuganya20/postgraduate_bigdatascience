@@ -3,10 +3,12 @@
 
 This is about the self learning course materials for Data Science Stream.
 
+<details><summary>Learning Resources :point_down:</summary>
+
 ### Semester A
 
-| Module                          | Link          |
-|---------------------------------|---------------|
+| Module                          |   Resources   |
+|---------------------------------|   :-------:   |
 | Machine Learning                | Link          |
 | Applied Statistics              | Link          |
 | Natural Language Processing     | Link          |
@@ -14,9 +16,10 @@ This is about the self learning course materials for Data Science Stream.
 
 ### Semester B
 
-| Module                                                                 | Link          |
-|------------------------------------------------------------------------|---------------|
-| Big Data Processing                                                    | Link          |
-| Neural Networks and Deep Learning                                      | Link          |
-| Digital Media and Social Networks                                      | Link          |
-| Risk and Decision Making for Data Science and Artificial Intelligence  | Link          |
+| Module                                                                 |     Resources     |
+|------------------------------------------------------------------------|     :-------:     |
+| Big Data Processing                                                    | Link              |
+| Neural Networks and Deep Learning                                      | Link              |
+| Digital Media and Social Networks                                      | Link              |
+| Risk and Decision Making for Data Science and Artificial Intelligence  | Link              |
+</details>
